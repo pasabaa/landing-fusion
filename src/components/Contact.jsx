@@ -5,7 +5,7 @@ import { TextGradient } from './TextGradient'
 export const Contact = () => {
 return (
 <div className='mt-16 relative h-full flex flex-col items-center justify-center'>
-    <div className='relative mx-auto w-full xl:w-6/12 lg:w-5/12 md:w-10/12'>
+    <div className='relative mx-auto w-full xl:w-6/12 lg:w-7/12 md:w-10/12'>
         <header className='text-center'>
             <h1 className='text-6xl font-bold'><TextGradient text={'Contacto'}/></h1>
             <p className='text-lg text-gray-400 mt-2'>Cotiza o ponte en contacto con nosotros.</p>
