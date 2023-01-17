@@ -9,7 +9,7 @@ export const Services = () => {
 
     const services = [
         {
-            name: 'Diseño y desarrollo de sitios web y aplicaciones web',
+            name: 'Diseño y desarrollo de sitios y aplicaciones web',
             desc: ' Crear sitios web y aplicaciones web personalizadas y funcionales que se ajusten a las necesidades específicas de un cliente.',
             icon: Web
         },
@@ -29,12 +29,12 @@ export const Services = () => {
             icon: Mobile
         },
         {
-            name: 'Creación de contenido y copia para sitios web',
+            name: 'Creación de contenido para sitios web',
             desc: 'Escribir y crear contenido de calidad para sitios web, incluyendo textos, imágenes y videos.',
             icon: Text
         },
         {
-            name: 'Mantenimiento y actualización de sitios web existente',
+            name: 'Mantenimiento y actualización de sitios web',
             desc: 'Realizar cambios y actualizaciones en sitios web existentes para mantenerlos actualizados y seguros.',
             icon: Maintenance
         },
