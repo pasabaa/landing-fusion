@@ -33,7 +33,7 @@ return (
                     </select>
                 </div>
                 <div className="mb-4">
-                    <label className="block font-medium mb-2">Project Description</label>
+                    <label className="block font-medium mb-2">Descripción del proyecto</label>
                     <textarea className="bg-black border border-gray-800 p-2 w-full text-white"
                         placeholder="Describa brevemente su proyecto"></textarea>
                 </div>
